@@ -1,6 +1,8 @@
 # Paisios
 RS232 Test App for Data Coms
 [Paisios - Patron Saint of Signalmen]
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 This apps main task is to allow you to send RS232 signals either as Text or Hex and receive replies. It does not analyse the replies. It will allow the signals to be sent as single signals or in many different permutations.  
 
